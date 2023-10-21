@@ -1,0 +1,5 @@
+Ministry od Social Welfare, msw.portal.gov.bd
+Ministry of Agriculture, moa.portal.gov.bd
+Ministry of Health & Family Welfare, mohfw.portal.gov.bd
+Ministry of Information, moi.portal.gov.bd
+Ministry of Finance, mof.portal.gov.bd
